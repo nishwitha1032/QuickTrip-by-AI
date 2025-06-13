@@ -13,7 +13,6 @@
 
 
 <h3 align="center">
-<a href="https://ai-trip-planner-barika.vercel.app/" target="_blank">📱 Visit this Project</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>
@@ -40,27 +39,7 @@
 - Travel Itineraries: Detailed daily travel plans including attractions, timings, and ticket pricing.
 
  
-<br><h2 id="layout">🎨 Layout</h2>
 
-<p>
-Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
-
-Google OAuth Sign in:
-  <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
-  
-Create Trip Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
-
-View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
-
-My Trips Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
-
-Responsive view on mobile: <br>
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
-</p>
  
 
 <h2 id="pre">🗁 Prerequisites</h2>
